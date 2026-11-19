@@ -1,0 +1,523 @@
+/* ============================================================
+   ESTILOS - VISOR TURISMO QUINDÍO
+   Diseño: Glassmorphism con paisaje cafetero
+   ============================================================ */
+
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Cuerpo: layout flexible con fondo de paisaje cafetero */
+body {
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)),
+        url('https://images.unsplash.com/photo-1599409636295-e8d17e2e6222?w=1920&q=80') center/cover no-repeat;
+    background-color: #2E7D32;
+}
+
+/* ============================================================
+   BARRA LATERAL (SIDEBAR)
+   ============================================================ */
+#sidebar {
+    width: 480px;
+    min-width: 480px;
+    padding: 20px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    z-index: 1000;
+    background-image: url("Paisaje cafetero colombiano enmarcado.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* ============================================================
+   HEADER CON LOGO
+   ============================================================ */
+/* Quitar el rectángulo blanco de fondo del encabezado */
+.header {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+    padding: 0 !important;
+    overflow: visible !important;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo-icon {
+    width: 70px;
+    height: 50px;
+    flex-shrink: 0;
+}
+
+.logo-icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.logo-text {
+    flex: 1;
+}
+
+.logo-text h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    color: #1B5E20;
+    line-height: 1;
+    margin-bottom: 4px;
+}
+
+.logo-text .slogan {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: #555;
+    font-style: italic;
+    margin: 0;
+}
+
+/* ============================================================
+   PANELES (GLASSMORPHISM)
+   ============================================================ */
+.panel {
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.panel-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgba(46, 125, 50, 0.2);
+}
+
+.panel-icon {
+    color: #2E7D32;
+    display: flex;
+    align-items: center;
+}
+
+.panel-header h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #1B5E20;
+    margin: 0;
+}
+
+/* ============================================================
+   CAMPOS DE ENTRADA
+   ============================================================ */
+.input-label {
+    display: block;
+    font-size: 13px;
+    color: #555;
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+.input-group {
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.input-icon {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    color: #999;
+}
+
+.input-group input[type="text"],
+.input-group input[type="number"] {
+    width: 100%;
+    padding: 12px 12px 12px 40px;
+    border: 2px solid #E0E0E0;
+    border-radius: 10px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    background: white;
+    transition: border-color 0.3s;
+}
+
+.input-group input[type="text"]:focus,
+.input-group input[type="number"]:focus {
+    outline: none;
+    border-color: #4CAF50;
+}
+
+.input-group input[type="number"] {
+    padding-left: 12px;
+}
+
+/* ============================================================
+   BOTONES
+   ============================================================ */
+button {
+    width: 100%;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Botón primario (verde) */
+.btn-primary {
+    background: linear-gradient(135deg, #4CAF50 0%, #2E7D32 100%);
+    color: white;
+    box-shadow: 0 4px 15px rgba(46, 125, 50, 0.3);
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #43A047 0%, #1B5E20 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(46, 125, 50, 0.4);
+}
+
+.btn-primary:active {
+    transform: translateY(0);
+}
+
+/* Botón secundario (naranja) */
+.btn-secondary {
+    background: linear-gradient(135deg, #FF9800 0%, #F57C00 100%);
+    color: white;
+    box-shadow: 0 4px 15px rgba(245, 124, 0, 0.3);
+}
+
+.btn-secondary:hover {
+    background: linear-gradient(135deg, #FB8C00 0%, #E65100 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(245, 124, 0, 0.4);
+}
+
+/* Botón activo (rojo para desactivar) */
+.btn-primary.active {
+    background: linear-gradient(135deg, #f44336 0%, #c62828 100%);
+    box-shadow: 0 4px 15px rgba(198, 40, 40, 0.3);
+}
+
+.btn-primary.active:hover {
+    background: linear-gradient(135deg, #e53935 0%, #b71c1c 100%);
+}
+
+/* ============================================================
+   CONTENEDORES DE RESULTADOS
+   ============================================================ */
+.resultados-container {
+    margin-top: 12px;
+    padding: 12px;
+    background: rgba(240, 240, 240, 0.5);
+    border-radius: 10px;
+    font-size: 13px;
+    max-height: 200px;
+    overflow-y: auto;
+    display: none;
+}
+
+.resultados-container:empty {
+    display: none;
+}
+
+.resultados-container:not(:empty) {
+    display: block;
+}
+
+/* Items de resultados de búsqueda */
+.resultado-item {
+    padding: 10px;
+    margin-bottom: 6px;
+    background: white;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+    border-left: 3px solid #4CAF50;
+}
+
+.resultado-item:hover {
+    background: #F1F8E9;
+    transform: translateX(3px);
+}
+
+.resultado-item strong {
+    display: block;
+    color: #1B5E20;
+    font-size: 14px;
+    margin-bottom: 3px;
+}
+
+.resultado-item small {
+    color: #666;
+    font-size: 11px;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.footer {
+    background: transparent;
+    border-radius: 14px;
+    overflow: hidden;
+    margin-top: auto;
+    color: white;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+.footer-wave {
+    display: block;
+    width: 100%;
+    height: 24px;
+    margin-bottom: -1px;
+}
+
+.footer-content {
+    background: #0B3D24;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px 12px 12px;
+    gap: 10px;
+}
+
+.footer-left {
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+    border-right: 1px solid rgba(255, 255, 255, 0.65);
+    flex-shrink: 0;
+}
+
+.footer-logo-img {
+    width: 78px;
+    height: auto;
+    display: block;
+    object-fit: contain;
+}
+
+.footer-info {
+    flex: 1;
+    text-align: center;
+    min-width: 0;
+}
+
+.footer-location {
+    font-size: 10.5px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+}
+
+.footer-slogan {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 7.5px;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    color: #e2e8f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    white-space: nowrap;
+}
+
+.slogan-line {
+    display: inline-block;
+    width: 14px;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-social {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+}
+
+.social-icon {
+    color: #0B3D24;
+    background: #ffffff;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.25s;
+}
+
+.social-icon:hover {
+    background: #e2e8f0;
+    transform: translateY(-2px);
+}
+
+/* ============================================================
+   CONTENEDOR DEL MAPA
+   ============================================================ */
+#map {
+    flex: 1;
+    height: 100vh;
+    z-index: 1;
+}
+
+/* ============================================================
+   POPUPS DE LEAFLET
+   ============================================================ */
+.leaflet-popup-content-wrapper {
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+    border: none;
+}
+
+.leaflet-popup-content {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 15px;
+}
+
+.leaflet-popup-content h3 {
+    color: #1B5E20;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    margin-bottom: 8px;
+    font-weight: 700;
+}
+
+.leaflet-popup-content p {
+    margin: 5px 0;
+    color: #333;
+}
+
+.leaflet-popup-content strong {
+    color: #2E7D32;
+}
+
+.leaflet-popup-content button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background: linear-gradient(135deg, #4CAF50 0%, #2E7D32 100%);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 600;
+    width: auto;
+    text-transform: none;
+    letter-spacing: normal;
+}
+
+.leaflet-popup-content button:hover {
+    background: linear-gradient(135deg, #43A047 0%, #1B5E20 100%);
+}
+
+/* ============================================================
+   LEYENDA DE DENSIDAD
+   ============================================================ */
+.leyenda-densidad {
+    padding: 10px;
+}
+
+.leyenda-densidad h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #1B5E20;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+.leyenda-item {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    font-size: 12px;
+}
+
+.leyenda-color {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+/* ============================================================
+   RESPONSIVE (para pantallas pequeñas)
+   ============================================================ */
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+    }
+    
+    #sidebar {
+        width: 100%;
+        min-width: 100%;
+        max-height: 50vh;
+    }
+    
+    #map {
+        height: 50vh;
+    }
+}
+
+/* Texto de instrucciones en recuadro estético */
+.ayuda-texto {
+    font-size: 0.7rem;
+    color: #374151;
+    background-color: #f4f6f5;
+    border: 1px solid #d1d5db;
+    border-left: 3px solid #2e7d32;
+    border-radius: 6px;
+    padding: 7px 10px;
+    line-height: 1.35;
+    margin: 10px 0 2px 0;
+    text-align: left;
+}
+
+/* Ajustar el logo */
+.logo-banner {
+    width: 70%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 8px auto;
+    object-fit: contain;
+}

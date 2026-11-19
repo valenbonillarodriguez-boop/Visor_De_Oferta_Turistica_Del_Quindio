@@ -1,0 +1,4043 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-18T23:15:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/12432583",
+      "properties": {
+        "@id": "relation/12432583",
+        "addr:city": "Pueblo Tapao",
+        "addr:housenumber": "Km 6 Vía Montenegro",
+        "email": "info@parquedelcafe.co",
+        "name": "Parque del Café",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "operator": "Federación Nacional de Cafeteros de Colombia",
+        "phone": "+57 606 7417417",
+        "tourism": "theme_park",
+        "type": "multipolygon",
+        "website": "https://parquedelcafe.co/",
+        "wikidata": "Q4121127",
+        "wikipedia": "es:Parque del Café",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7691898,
+          4.5373574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200000491",
+      "properties": {
+        "@id": "way/200000491",
+        "building": "yes",
+        "man_made": "tower",
+        "name": "Colina Iluminada",
+        "tourism": "viewpoint",
+        "tower:type": "observation",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6656622,
+          4.668955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288250793",
+      "properties": {
+        "@id": "way/288250793",
+        "artist_name": "Roberto Henao Buriticá",
+        "artwork_type": "statue",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Estatua a Simón Bolívar",
+        "tourism": "artwork",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672686,
+          4.5324484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293160483",
+      "properties": {
+        "@id": "node/293160483",
+        "ele": "2000",
+        "name": "2000 msnm",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6083296,
+          4.5214328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293160599",
+      "properties": {
+        "@id": "node/293160599",
+        "ele": "2500",
+        "name": "2500 msnm",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5809207,
+          4.5158416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293160840",
+      "properties": {
+        "@id": "node/293160840",
+        "ele": "3000",
+        "name": "3000 msnm",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5657557,
+          4.4903165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294895598",
+      "properties": {
+        "@id": "way/294895598",
+        "alt_name": "La 70",
+        "historic": "monument",
+        "name": "Locomotora La Negrita",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6477876,
+          4.5718179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295171104",
+      "properties": {
+        "@id": "way/295171104",
+        "name": "Museo del Oro Quimbaya",
+        "operator": "Banco de la República",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6483392,
+          4.5709901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325760728",
+      "properties": {
+        "@id": "way/325760728",
+        "building": "yes",
+        "contact:phone": "+57 606 7440347",
+        "name": "Casa Museo Musical del Quindío",
+        "tourism": "museum",
+        "website": "http://www.musicayregion.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6770796,
+          4.5279863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/437687800",
+      "properties": {
+        "@id": "way/437687800",
+        "historic": "monument",
+        "name": "Monumento de la Madre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7680834,
+          4.6204287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/459021266",
+      "properties": {
+        "@id": "way/459021266",
+        "historic": "memorial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8099318,
+          4.4958391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/471994511",
+      "properties": {
+        "@id": "way/471994511",
+        "building": "yes",
+        "name": "Mirador de Byron",
+        "tourism": "viewpoint",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7087236,
+          4.7069968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/499413139",
+      "properties": {
+        "@id": "way/499413139",
+        "building": "yes",
+        "name": "Torre Mirador",
+        "tourism": "viewpoint",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7717787,
+          4.5408251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/583595781",
+      "properties": {
+        "@id": "way/583595781",
+        "historic": "monument",
+        "name": "Turbina Pelton",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6992413,
+          4.5202394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/610011228",
+      "properties": {
+        "@id": "way/610011228",
+        "name": "Parque Nacional de la Cultura Agropecuaria - PANACA",
+        "tourism": "theme_park",
+        "wikidata": "Q7118157",
+        "wikimedia_commons": "Category:Parque Nacional de la Cultura Agropecuaria",
+        "wikipedia": "es:Parque nacional de la Cultura Agropecuaria",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8187731,
+          4.6072015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/677328044",
+      "properties": {
+        "@id": "way/677328044",
+        "historic": "memorial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7072026,
+          4.4554214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/677328045",
+      "properties": {
+        "@id": "way/677328045",
+        "historic": "memorial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7071314,
+          4.4553913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492266",
+      "properties": {
+        "@id": "node/703492266",
+        "divipola": "63302",
+        "ele": "3510.3",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Génova",
+        "name": "Cuchilla El Brasil",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 67c02628a5623cbebe38a765c291d9e3",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6936584,
+          4.1819805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492284",
+      "properties": {
+        "@id": "node/703492284",
+        "divipola": "63302",
+        "ele": "1793.3",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "name": "Alto El Cedro",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 2b77febeaf2792caa96598f88aabbe3c",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7659906,
+          4.2394117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492414",
+      "properties": {
+        "@id": "node/703492414",
+        "divipola": "63548",
+        "ele": "2832.8",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Pijao",
+        "name": "Loma La Dorada",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 172bbd20b478471c0c09cf7236260204",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7049619,
+          4.2683822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492415",
+      "properties": {
+        "@id": "node/703492415",
+        "divipola": "63548",
+        "ele": "2146.4",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Pijao",
+        "name": "Loma Patio Bonito",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 7a815b37fea88535d9dcaa7577099935",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7043041,
+          4.2987508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492461",
+      "properties": {
+        "@id": "node/703492461",
+        "divipola": "63212",
+        "ele": "1777.9",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Córdoba",
+        "name": "Alto San Jose",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 8979e6c3cd943da7b788c6a4df8b3891",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6926828,
+          4.3775777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492483",
+      "properties": {
+        "@id": "node/703492483",
+        "divipola": "63212",
+        "ele": "2320.2",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Córdoba",
+        "name": "Alto El Castillo",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 22a792cf3ca29540ee9ea5a037d701f1",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6591348,
+          4.3811957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492487",
+      "properties": {
+        "@id": "node/703492487",
+        "divipola": "63212",
+        "ele": "3377",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Córdoba",
+        "name": "Cuchilla Las Camelias",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 170dc3b570618dfb0366193e7da2c8ee",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6232845,
+          4.381086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492554",
+      "properties": {
+        "@id": "node/703492554",
+        "divipola": "63130",
+        "ele": "1321",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Calarcá",
+        "name": "Loma El Oso",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, d22643cada858531ef0ee4737d2b8a1f",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7039752,
+          4.4221988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492572",
+      "properties": {
+        "@id": "node/703492572",
+        "ele": "3165",
+        "name": "Alto del Zar",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6211111,
+          4.4275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492694",
+      "properties": {
+        "@id": "node/703492694",
+        "divipola": "63130",
+        "ele": "1458.3",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Calarcá",
+        "name": "Alto Calabera",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 3b61190ef3e5db401b2a334e757a45bb",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662972,
+          4.4653946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492722",
+      "properties": {
+        "@id": "node/703492722",
+        "divipola": "63130",
+        "ele": "2180.1",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Calarcá",
+        "name": "Alto Tauresa",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, acae6afe743189ead043c3c703370333",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6271217,
+          4.4860059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492725",
+      "properties": {
+        "@id": "node/703492725",
+        "divipola": "63130",
+        "ele": "2171.1",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Quindío ; Calarcá",
+        "name": "Alto El Castillo",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 12c6532e7009274cf21d5b15893e37cb",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6142945,
+          4.5422481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492766",
+      "properties": {
+        "@id": "node/703492766",
+        "ele": "3507",
+        "name": "Cerro Morro Gacho",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4652779,
+          4.6208334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492768",
+      "properties": {
+        "@id": "node/703492768",
+        "divipola": "63690",
+        "ele": "2977.5",
+        "is_in": "Colombia; Quindío ; Salento",
+        "name": "Cuchilla La Union",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 39ecea3722c8fb6fa1371a0b0b440517",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5559146,
+          4.5606895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492770",
+      "properties": {
+        "@id": "node/703492770",
+        "divipola": "63690",
+        "ele": "3752.5",
+        "is_in": "Colombia; Quindío ; Salento",
+        "name": "Alto El Español",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 5b981b0e919ac62dd17269cd93e6ce9a",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4344185,
+          4.6386457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492772",
+      "properties": {
+        "@id": "node/703492772",
+        "divipola": "63690",
+        "ele": "3731.9",
+        "is_in": "Colombia; Quindío ; Salento",
+        "name": "Alto La Guayana",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 0f7134439f9f370062f188423baac025",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4584648,
+          4.6019441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492776",
+      "properties": {
+        "@id": "node/703492776",
+        "divipola": "63690",
+        "ele": "3821.9",
+        "is_in": "Colombia; Quindío ; Salento",
+        "name": "Alto De Guayana",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 0f6af5feab32501c0fdbde1befe1d114",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4680168,
+          4.5992308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703492782",
+      "properties": {
+        "@id": "node/703492782",
+        "divipola": "63690",
+        "ele": "4282",
+        "is_in": "Colombia; Quindío ; Salento",
+        "name": "Cuchilla Berlin",
+        "natural": "peak",
+        "note": "ADMINISTRATIVO, CERROS Y PICOS, 88bee99f9d7e36ecf51751e5a6e69b91",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4123728,
+          4.6978235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1027556674",
+      "properties": {
+        "@id": "node/1027556674",
+        "ele": "4680",
+        "name": "Quindío Norte",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3886449,
+          4.7157409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1098413398",
+      "properties": {
+        "@id": "way/1098413398",
+        "historic": "monument",
+        "name": "El Último Bagón",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6782678,
+          4.533345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1207816357",
+      "properties": {
+        "@id": "way/1207816357",
+        "building": "yes",
+        "direction": "SW",
+        "tourism": "viewpoint",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5721666,
+          4.6553452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1332569052",
+      "properties": {
+        "@id": "node/1332569052",
+        "historic": "boundary_stone",
+        "name": "Pino",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6521354,
+          4.6998051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1332569094",
+      "properties": {
+        "@id": "node/1332569094",
+        "historic": "boundary_stone",
+        "name": "Bloque cemento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6514444,
+          4.7003734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1332771463",
+      "properties": {
+        "@id": "node/1332771463",
+        "historic": "boundary_stone",
+        "name": "Palo de guayabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.651883,
+          4.6998988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359687133",
+      "properties": {
+        "@id": "way/1359687133",
+        "historic": "monument",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7611215,
+          4.6240257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1371000057",
+      "properties": {
+        "@id": "way/1371000057",
+        "name": "Casa Museo Cipriano Echeverri",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "tourism": "museum",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6393654,
+          4.6206447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372976143",
+      "properties": {
+        "@id": "way/1372976143",
+        "historic": "memorial",
+        "name": "La verdad os hará libres",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6307932,
+          4.6212283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1381802872",
+      "properties": {
+        "@id": "way/1381802872",
+        "access": "customers",
+        "name": "Qinti Patas Arriba",
+        "tourism": "theme_park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6897464,
+          4.3914267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1381802882",
+      "properties": {
+        "@id": "way/1381802882",
+        "building": "yes",
+        "name": "Casa al revés",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6896715,
+          4.3921022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1482071597",
+      "properties": {
+        "@id": "way/1482071597",
+        "building": "yes",
+        "museum": "history",
+        "name": "Hacienda Histórica Cafetera El Cabrero",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7613655,
+          4.4750368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2104432184",
+      "properties": {
+        "@id": "node/2104432184",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7345953,
+          4.3597222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107060989",
+      "properties": {
+        "@id": "node/2107060989",
+        "name": "Mirador Valle del Cocora",
+        "panoramax": "a8e15853-4ead-4a09-9cd2-ece871f3b2c3",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5668474,
+          4.6407229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2131124058",
+      "properties": {
+        "@id": "node/2131124058",
+        "name": "Museo del Café",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77123,
+          4.5404579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2131124118",
+      "properties": {
+        "@id": "node/2131124118",
+        "name": "Mirador Pueblo Tapao",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7838394,
+          4.5141338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2734059626",
+      "properties": {
+        "@id": "node/2734059626",
+        "historic": "memorial",
+        "name": "Pasión de Simón Bolivar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6580242,
+          4.674939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2734059628",
+      "properties": {
+        "@id": "node/2734059628",
+        "historic": "monument",
+        "name": "Simón Bolívar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6580849,
+          4.6747694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738667064",
+      "properties": {
+        "@id": "node/2738667064",
+        "historic": "monument",
+        "name": "Monumento a los fundadores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6581847,
+          4.674665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738667098",
+      "properties": {
+        "@id": "node/2738667098",
+        "name": "Mirador del tiempo detenido",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6591158,
+          4.6771134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2824785152",
+      "properties": {
+        "@id": "node/2824785152",
+        "historic": "monument",
+        "name": "La virgen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6683616,
+          4.6872689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2925368965",
+      "properties": {
+        "@id": "node/2925368965",
+        "ele": "1173",
+        "name": "Alto de Pinas",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7552255,
+          4.3774082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2925369227",
+      "properties": {
+        "@id": "node/2925369227",
+        "ele": "1866.9",
+        "name": "Alto El Pencil",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6457939,
+          4.4566447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2955345547",
+      "properties": {
+        "@id": "node/2955345547",
+        "ele": "2123.7",
+        "name": "Alto del Roble",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6026566,
+          4.6777225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3005648731",
+      "properties": {
+        "@id": "node/3005648731",
+        "ele": "2268.2",
+        "name": "Alto El Oasis",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5981868,
+          4.5358263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3005677127",
+      "properties": {
+        "@id": "node/3005677127",
+        "ele": "2923.6",
+        "name": "Alto Palmichal",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5526113,
+          4.5475833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3005687497",
+      "properties": {
+        "@id": "node/3005687497",
+        "ele": "1851.5",
+        "name": "Alto Canaán",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5903753,
+          4.6149661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3005687632",
+      "properties": {
+        "@id": "node/3005687632",
+        "ele": "2141.9",
+        "name": "Navarco Alto",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5692783,
+          4.6120565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3005791248",
+      "properties": {
+        "@id": "node/3005791248",
+        "ele": "2206.3",
+        "name": "Alto Sierra Morena",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5970355,
+          4.5694869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044139366",
+      "properties": {
+        "@id": "node/3044139366",
+        "historic": "boundary_stone",
+        "name": "Torre 38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6544405,
+          4.6907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044139367",
+      "properties": {
+        "@id": "node/3044139367",
+        "historic": "boundary_stone",
+        "name": "Torre 39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6562208,
+          4.6920191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044147272",
+      "properties": {
+        "@id": "node/3044147272",
+        "historic": "boundary_stone",
+        "name": "Torre 35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6557283,
+          4.6778329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3050654804",
+      "properties": {
+        "@id": "node/3050654804",
+        "historic": "boundary_stone",
+        "name": "Torre 35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.648658,
+          4.6841714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3050654805",
+      "properties": {
+        "@id": "node/3050654805",
+        "historic": "boundary_stone",
+        "name": "Torre 40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6581078,
+          4.6966688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354534",
+      "properties": {
+        "@id": "node/3052354534",
+        "historic": "boundary_stone",
+        "name": "Torre 27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6548002,
+          4.6549577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354535",
+      "properties": {
+        "@id": "node/3052354535",
+        "historic": "boundary_stone",
+        "name": "Torre 29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6543087,
+          4.661111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354536",
+      "properties": {
+        "@id": "node/3052354536",
+        "historic": "boundary_stone",
+        "name": "Torre 29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6532058,
+          4.6647285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354537",
+      "properties": {
+        "@id": "node/3052354537",
+        "historic": "boundary_stone",
+        "name": "Torre 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.652364,
+          4.6684662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354538",
+      "properties": {
+        "@id": "node/3052354538",
+        "historic": "boundary_stone",
+        "name": "Torre 31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6497645,
+          4.6709087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354539",
+      "properties": {
+        "@id": "node/3052354539",
+        "historic": "boundary_stone",
+        "name": "Torre 32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6465938,
+          4.6756494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354540",
+      "properties": {
+        "@id": "node/3052354540",
+        "historic": "boundary_stone",
+        "name": "Torre 33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6461463,
+          4.6763279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354541",
+      "properties": {
+        "@id": "node/3052354541",
+        "historic": "boundary_stone",
+        "name": "Torre 34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.647199,
+          4.6795626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354542",
+      "properties": {
+        "@id": "node/3052354542",
+        "historic": "boundary_stone",
+        "name": "Torre 36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6524298,
+          4.6866418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3052354543",
+      "properties": {
+        "@id": "node/3052354543",
+        "historic": "boundary_stone",
+        "name": "Torre 37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6544816,
+          4.6880434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3185442322",
+      "properties": {
+        "@id": "node/3185442322",
+        "historic": "memorial",
+        "name": "Memoria a los fallecidos del Terremoto de 1999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6872079,
+          4.524875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3394543535",
+      "properties": {
+        "@id": "node/3394543535",
+        "historic": "boundary_stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4239579,
+          4.6398463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3989082939",
+      "properties": {
+        "@id": "node/3989082939",
+        "historic": "monument",
+        "name": "Poporo Quimbaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7676953,
+          4.6203719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4121498990",
+      "properties": {
+        "@id": "node/4121498990",
+        "name": "Casa de los Colibríes",
+        "name:fr": "Maison des colibris",
+        "phone": "+57 312 7723734",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4532474,
+          4.6250114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4184409401",
+      "properties": {
+        "@id": "node/4184409401",
+        "historic": "monument",
+        "is_in:city": "Armenia",
+        "is_in:country": "Colombia",
+        "is_in:neighbourhood": "Casa Blanca",
+        "is_in:state": "Quindío",
+        "name": "Yipao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6953687,
+          4.5308113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4281363564",
+      "properties": {
+        "@id": "node/4281363564",
+        "bench": "yes",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4659599,
+          4.6331795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4443172649",
+      "properties": {
+        "@id": "node/4443172649",
+        "name": "Parque Los Arrieros",
+        "tourism": "theme_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7810557,
+          4.5796828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4511384786",
+      "properties": {
+        "@id": "node/4511384786",
+        "name": "RECUCA, Recorrido de la Cultura Cafetera.",
+        "tourism": "theme_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7332143,
+          4.4322488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4511384787",
+      "properties": {
+        "@id": "node/4511384787",
+        "name": "Centro Experimental de la Guadua",
+        "operator": "CRQ",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.715832,
+          4.4022264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4564218291",
+      "properties": {
+        "@id": "node/4564218291",
+        "historic": "monument",
+        "name": "Alto De La Cruz",
+        "tourism": "viewpoint",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56647,
+          4.6396541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4565902598",
+      "properties": {
+        "@id": "node/4565902598",
+        "name": "Mirador 2",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4763729,
+          4.6367265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4565902694",
+      "properties": {
+        "@id": "node/4565902694",
+        "name": "Palma de Cera",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4723498,
+          4.6364538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4582133955",
+      "properties": {
+        "@id": "node/4582133955",
+        "historic": "monument",
+        "is_in:city": "Armenia",
+        "is_in:country": "Colombia",
+        "is_in:neighbourhood": "Casa Blanca",
+        "is_in:state": "Quindío",
+        "name": "Jeep Willys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6404445,
+          4.5348445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4779950532",
+      "properties": {
+        "@id": "node/4779950532",
+        "addr:city": "Circasia",
+        "addr:postcode": "631001",
+        "addr:street": "Calle 3",
+        "name": "Mirador Alto De La Cruz",
+        "tourism": "viewpoint",
+        "website": "https://www.circasia-quindio.gov.co/index.shtml"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.632791,
+          4.6197251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4833495822",
+      "properties": {
+        "@id": "node/4833495822",
+        "name": "Mirador",
+        "name:en": "Viewpoint",
+        "name:es": "Mirador",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5863062,
+          4.6266684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4981374326",
+      "properties": {
+        "@id": "node/4981374326",
+        "addr:city": "Salento",
+        "addr:housenumber": "KM 3,8",
+        "addr:postcode": "121164",
+        "addr:street": "Vereda Palestina",
+        "crop": "coffee",
+        "email": "contacto@fincaelocasosalento.com",
+        "fax": "+57 312 2968668",
+        "name": "Tour de Finca La Ocaso",
+        "name:en": "Ocaso Coffee Tour",
+        "phone": "+57 310 451 73 29",
+        "tourism": "attraction",
+        "website": "https://www.fincaelocasosalento.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5959039,
+          4.625919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4982785924",
+      "properties": {
+        "@id": "node/4982785924",
+        "email": "joselitopulgarin@gmail.com",
+        "name": "Tour de Finca Don Elias",
+        "name:en": "Don Elías Coffee tour",
+        "phone": "+57 320 6143620",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5973111,
+          4.6245227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5003613343",
+      "properties": {
+        "@id": "node/5003613343",
+        "ele": "1492.3",
+        "name": "Alto de La Moneda",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6606809,
+          4.5190495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5227806311",
+      "properties": {
+        "@id": "node/5227806311",
+        "description": "Daily guided tours available",
+        "leisure": "nature_reserve",
+        "name": "Reserva Natural Kasaguadua",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5883837,
+          4.6287305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5254856758",
+      "properties": {
+        "@id": "node/5254856758",
+        "historic": "memorial",
+        "name": "Estatua a Simón Bolívar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7906902,
+          4.2064369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5261937531",
+      "properties": {
+        "@id": "node/5261937531",
+        "historic": "memorial",
+        "name": "Memoria a fallecidos del Terremoto de 1999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6448264,
+          4.5325657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5326491022",
+      "properties": {
+        "@id": "node/5326491022",
+        "name": "Finca Cafetera La Granada",
+        "tourism": "attraction",
+        "website": "https://lagranadapijao.wordpress.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.707077,
+          4.3153418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5351521354",
+      "properties": {
+        "@id": "node/5351521354",
+        "historic": "memorial",
+        "name": "La Cosecha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7717274,
+          4.5404957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5357333892",
+      "properties": {
+        "@id": "node/5357333892",
+        "historic": "memorial",
+        "name": "Monumento a Los Fundadores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6620378,
+          4.5456771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5489165622",
+      "properties": {
+        "@id": "node/5489165622",
+        "name": "Mirador Cumbre Cerro Morrogacho",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.464821,
+          4.6215709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5557819550",
+      "properties": {
+        "@id": "node/5557819550",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7003283,
+          4.3538755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5583249528",
+      "properties": {
+        "@id": "node/5583249528",
+        "name": "Mirador de La Secreta",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.683979,
+          4.5218127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5636223993",
+      "properties": {
+        "@id": "node/5636223993",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.712252,
+          4.5906058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5662367432",
+      "properties": {
+        "@id": "node/5662367432",
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "name": "Homenaje a Los Bomberos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7008745,
+          4.5309884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5667780022",
+      "properties": {
+        "@id": "node/5667780022",
+        "name": "último broche via chispas",
+        "name:en": "last gate on the way to Chispas",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4713889,
+          4.6745899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5690538021",
+      "properties": {
+        "@id": "node/5690538021",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5456457,
+          4.6168941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5706708322",
+      "properties": {
+        "@id": "node/5706708322",
+        "name": "Peña de Nikon (mirador del ponque)",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4432424,
+          4.6809644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5766062001",
+      "properties": {
+        "@id": "node/5766062001",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662795,
+          4.5416347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5801627556",
+      "properties": {
+        "@id": "node/5801627556",
+        "name": "Palacio Barbas",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6472611,
+          4.6905484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5809001731",
+      "properties": {
+        "@id": "node/5809001731",
+        "historic": "memorial",
+        "name": "Monumento a los secuestrados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6994892,
+          4.5202068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5842224343",
+      "properties": {
+        "@id": "node/5842224343",
+        "name": "Torre Mirador",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6496797,
+          4.5382992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5902880390",
+      "properties": {
+        "@id": "node/5902880390",
+        "ele": "2000",
+        "name": "Alto Carniceros",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6911629,
+          4.3672218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5902880391",
+      "properties": {
+        "@id": "node/5902880391",
+        "ele": "1798",
+        "name": "Alto La Quiebra",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7001505,
+          4.3535354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5919498085",
+      "properties": {
+        "@id": "node/5919498085",
+        "name:en": "Point of view",
+        "name:fr": "Point de vue",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4361645,
+          4.6238104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5941556655",
+      "properties": {
+        "@id": "node/5941556655",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6457302,
+          4.5323438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5941738702",
+      "properties": {
+        "@id": "node/5941738702",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6162357,
+          4.5448316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5964584711",
+      "properties": {
+        "@id": "node/5964584711",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7708705,
+          4.5402709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5979965791",
+      "properties": {
+        "@id": "node/5979965791",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5892353,
+          4.6229537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6160327977",
+      "properties": {
+        "@id": "node/6160327977",
+        "historic": "memorial",
+        "name": "Cacique Calarcá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6443233,
+          4.5138568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6169811986",
+      "properties": {
+        "@id": "node/6169811986",
+        "historic": "monument",
+        "name": "Cristo Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5881065,
+          4.5775802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6254248275",
+      "properties": {
+        "@id": "node/6254248275",
+        "man_made": "tower",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6514167,
+          4.51159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6254248291",
+      "properties": {
+        "@id": "node/6254248291",
+        "name": "Museo de Geología y Suelos",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6518217,
+          4.5119055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6254248318",
+      "properties": {
+        "@id": "node/6254248318",
+        "name": "Insectuarium",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6515481,
+          4.5114804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6259879082",
+      "properties": {
+        "@id": "node/6259879082",
+        "ele": "2146.7",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5908639,
+          4.6983218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6259879793",
+      "properties": {
+        "@id": "node/6259879793",
+        "ele": "2350",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5380196,
+          4.6972094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6259879795",
+      "properties": {
+        "@id": "node/6259879795",
+        "ele": "2500",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5285686,
+          4.693255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6259879796",
+      "properties": {
+        "@id": "node/6259879796",
+        "ele": "2630",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5139311,
+          4.6890159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6260594445",
+      "properties": {
+        "@id": "node/6260594445",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4800858,
+          4.6393177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6297967187",
+      "properties": {
+        "@id": "node/6297967187",
+        "name": "Bosque de Niebla",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4608564,
+          4.6313958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6329954673",
+      "properties": {
+        "@id": "node/6329954673",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6757646,
+          4.5408842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6363793652",
+      "properties": {
+        "@id": "node/6363793652",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7059619,
+          4.3335768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6384460185",
+      "properties": {
+        "@id": "node/6384460185",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5614453,
+          4.636161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6384460285",
+      "properties": {
+        "@id": "node/6384460285",
+        "name": "Mirador de la Valle",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5608267,
+          4.6324582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6384460385",
+      "properties": {
+        "@id": "node/6384460385",
+        "name": "Mirador Alexandra",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5455529,
+          4.6184441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6573405771",
+      "properties": {
+        "@id": "node/6573405771",
+        "name": "La Arzacia Organic Coffee Farm Tour",
+        "phone": "+57 313 6699732",
+        "tourism": "attraction",
+        "website": "http://www.tourcafetero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5971263,
+          4.6237204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6695549785",
+      "properties": {
+        "@id": "node/6695549785",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4657778,
+          4.634472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6839253872",
+      "properties": {
+        "@id": "node/6839253872",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6421865,
+          4.5662268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6883789404",
+      "properties": {
+        "@id": "node/6883789404",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7543533,
+          4.3688936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6904143685",
+      "properties": {
+        "@id": "node/6904143685",
+        "name": "Yo Amo Salento",
+        "name:de": "I Love Salento",
+        "name:en": "I Love Salento",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.566468,
+          4.639623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6956486464",
+      "properties": {
+        "@id": "node/6956486464",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6597326,
+          4.5403562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7053174285",
+      "properties": {
+        "@id": "node/7053174285",
+        "name": "Viewpoint Las Heliconias",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6602408,
+          4.6744603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7058292887",
+      "properties": {
+        "@id": "node/7058292887",
+        "name": "Horse tour",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5720218,
+          4.6338655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7115943059",
+      "properties": {
+        "@id": "node/7115943059",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657983,
+          4.5446112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7115943060",
+      "properties": {
+        "@id": "node/7115943060",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6470645,
+          4.5388225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7159789991",
+      "properties": {
+        "@id": "node/7159789991",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6420977,
+          4.4904266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7185746086",
+      "properties": {
+        "@id": "node/7185746086",
+        "divipola": "63130",
+        "ele": "1532.2",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia;Quindío;Calarcá",
+        "name": "Alto del Río",
+        "natural": "peak",
+        "note": "OROGRAFIA, MONTAÑAS Y CERROS, 12c6532e7009274cf21d5b15893e37cb",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6484075,
+          4.5439021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7779645043",
+      "properties": {
+        "@id": "node/7779645043",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6361472,
+          4.5381339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7923838985",
+      "properties": {
+        "@id": "node/7923838985",
+        "name:en": "Español",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4765818,
+          4.643057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8200127795",
+      "properties": {
+        "@id": "node/8200127795",
+        "historic": "memorial",
+        "name": "Abraham Lincoln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6782236,
+          4.5374772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8200144542",
+      "properties": {
+        "@id": "node/8200144542",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Arriero Caficultor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672115,
+          4.5337188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8200144543",
+      "properties": {
+        "@id": "node/8200144543",
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "name": "Requiem al Río Magdalena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6716929,
+          4.5340992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8200144544",
+      "properties": {
+        "@id": "node/8200144544",
+        "historic": "memorial",
+        "name": "Monumento a Jesús María Ocampo \"El Tigrero\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6619659,
+          4.546094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8200144545",
+      "properties": {
+        "@id": "node/8200144545",
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "name": "Árbol del Amor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6618195,
+          4.5467224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8200144546",
+      "properties": {
+        "@id": "node/8200144546",
+        "historic": "memorial",
+        "name": "Aborígenes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.651822,
+          4.5628901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8200144547",
+      "properties": {
+        "@id": "node/8200144547",
+        "historic": "memorial",
+        "name": "Alegoría al agua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6496637,
+          4.5652347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8267974944",
+      "properties": {
+        "@id": "node/8267974944",
+        "historic": "memorial",
+        "name": "Los Héroes del Túnel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5879729,
+          4.5206458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8625692418",
+      "properties": {
+        "@id": "node/8625692418",
+        "name": "La granja de mamá lulú",
+        "name:en": "Mamá lulú permacultur farm",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7902032,
+          4.6089803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8676967881",
+      "properties": {
+        "@id": "node/8676967881",
+        "ele": "2200",
+        "name": "Alto de la Mina",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7151576,
+          4.3486317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9121554906",
+      "properties": {
+        "@id": "node/9121554906",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6349309,
+          4.534414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9282777378",
+      "properties": {
+        "@id": "node/9282777378",
+        "ele": "4760",
+        "fixme": "location",
+        "name": "Paramillo del Quindío",
+        "natural": "volcano",
+        "volcano:status": "dormant",
+        "volcano:type": "stratovolcano",
+        "wikidata": "Q2648183",
+        "wikipedia": "es:Paramillo del Quindío"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3925181,
+          4.7107368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9318643522",
+      "properties": {
+        "@id": "node/9318643522",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.628565,
+          4.4780026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9544018317",
+      "properties": {
+        "@id": "node/9544018317",
+        "direction": "180",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4601007,
+          4.6326518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9658850183",
+      "properties": {
+        "@id": "node/9658850183",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6467952,
+          4.5225329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9672757630",
+      "properties": {
+        "@id": "node/9672757630",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6424563,
+          4.4900934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9977206217",
+      "properties": {
+        "@id": "node/9977206217",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4817548,
+          4.639692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10004705045",
+      "properties": {
+        "@id": "node/10004705045",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6434403,
+          4.5837023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10011842197",
+      "properties": {
+        "@id": "node/10011842197",
+        "name": "Alto de Don Leonidas",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6636571,
+          4.5419722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10011842198",
+      "properties": {
+        "@id": "node/10011842198",
+        "name": "Alto de Corocito",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6630629,
+          4.542365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10035430517",
+      "properties": {
+        "@id": "node/10035430517",
+        "ele": "3901",
+        "name": "Cerro la virgen",
+        "name:es": "Cerro la virgen",
+        "name:ru": "Серро ля Вирген",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4219503,
+          4.6427002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10042926732",
+      "properties": {
+        "@id": "node/10042926732",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6659846,
+          4.5409057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10056916605",
+      "properties": {
+        "@id": "node/10056916605",
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "name": "Gesta a la Guadua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6658387,
+          4.5441066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10057064888",
+      "properties": {
+        "@id": "node/10057064888",
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "name": "Sembrador de Canciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665501,
+          4.5440558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10057064889",
+      "properties": {
+        "@id": "node/10057064889",
+        "historic": "memorial",
+        "name": "Monumento a los Comerciantes del Quindío"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6732622,
+          4.5327745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10057064890",
+      "properties": {
+        "@id": "node/10057064890",
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "name": "Homenaje a Matiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7687733,
+          4.4530077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10057064891",
+      "properties": {
+        "@id": "node/10057064891",
+        "historic": "memorial",
+        "name": "Escultura Libertad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6959821,
+          4.5161522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10057064892",
+      "properties": {
+        "@id": "node/10057064892",
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "name": "Despulpadora de Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6730532,
+          4.5418846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10080690124",
+      "properties": {
+        "@id": "node/10080690124",
+        "historic": "memorial",
+        "name": "Carmelina Soto Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6691532,
+          4.5361268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10080721289",
+      "properties": {
+        "@id": "node/10080721289",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6413558,
+          4.5490796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10128823760",
+      "properties": {
+        "@id": "node/10128823760",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7175814,
+          4.3654409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10128823761",
+      "properties": {
+        "@id": "node/10128823761",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7177074,
+          4.3654128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10653299500",
+      "properties": {
+        "@id": "node/10653299500",
+        "historic": "memorial",
+        "name": "Virgen María"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6566643,
+          4.5163019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10677483480",
+      "properties": {
+        "@id": "node/10677483480",
+        "name": "Museo arqueológico",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7702177,
+          4.5342076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10695327243",
+      "properties": {
+        "@id": "node/10695327243",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645537,
+          4.5221616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10711339404",
+      "properties": {
+        "@id": "node/10711339404",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6364011,
+          4.525341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10739761007",
+      "properties": {
+        "@id": "node/10739761007",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5901729,
+          4.6239237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10746690405",
+      "properties": {
+        "@id": "node/10746690405",
+        "name:en": "I Love Filandia",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6586012,
+          4.6760418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10748908131",
+      "properties": {
+        "@id": "node/10748908131",
+        "historic": "memorial",
+        "name": "En memoria del sacerdote Bernardo Torres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7183396,
+          4.4274641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10815219006",
+      "properties": {
+        "@id": "node/10815219006",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4733464,
+          4.6376364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10848061690",
+      "properties": {
+        "@id": "node/10848061690",
+        "historic": "memorial",
+        "name": "Gruta de la Virgen María"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6493625,
+          4.5175684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11067448506",
+      "properties": {
+        "@id": "node/11067448506",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4741927,
+          4.6313167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11097591222",
+      "properties": {
+        "@id": "node/11097591222",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5985767,
+          4.5303395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11134388867",
+      "properties": {
+        "@id": "node/11134388867",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6445339,
+          4.5760597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11421051886",
+      "properties": {
+        "@id": "node/11421051886",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7849318,
+          4.5116586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11781515387",
+      "properties": {
+        "@id": "node/11781515387",
+        "name": "Mirador de Los Enamorados",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7587241,
+          4.5647883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12061313069",
+      "properties": {
+        "@id": "node/12061313069",
+        "name": "NO WAY DOWN! Path ends at the beginning of the forest. (07.2024)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5457351,
+          4.6152543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12136722877",
+      "properties": {
+        "@id": "node/12136722877",
+        "name": "Finca Entrebosques",
+        "shop": "farm",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5875441,
+          4.626345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12136722878",
+      "properties": {
+        "@id": "node/12136722878",
+        "name": "Finca Abundancia",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5979944,
+          4.6233156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12136756345",
+      "properties": {
+        "@id": "node/12136756345",
+        "name": "Finca Buenos Aires",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6096682,
+          4.6145123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12136756346",
+      "properties": {
+        "@id": "node/12136756346",
+        "name": "Finca en Edén del Quindio",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6152865,
+          4.6073484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12141019641",
+      "properties": {
+        "@id": "node/12141019641",
+        "name": "Alto de las Brujas",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6701476,
+          4.533003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12142984518",
+      "properties": {
+        "@id": "node/12142984518",
+        "addr:city": "Filandia",
+        "addr:housenumber": "4 38",
+        "addr:postcode": "634001",
+        "addr:street": "Calle 7 - Calle del Convento",
+        "mobile": "+57 317 5661646",
+        "name": "Museo Arte y Cultura Universal",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6574235,
+          4.6744748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12156373388",
+      "properties": {
+        "@id": "node/12156373388",
+        "name": "Alto El Bosque",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6788296,
+          4.5374973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197242266",
+      "properties": {
+        "@id": "node/12197242266",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.793403,
+          4.2043111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197242267",
+      "properties": {
+        "@id": "node/12197242267",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6936601,
+          4.5427415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197242268",
+      "properties": {
+        "@id": "node/12197242268",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7020936,
+          4.5371788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197242269",
+      "properties": {
+        "@id": "node/12197242269",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6973475,
+          4.5157845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197242270",
+      "properties": {
+        "@id": "node/12197242270",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6974884,
+          4.5159129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197242271",
+      "properties": {
+        "@id": "node/12197242271",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6731344,
+          4.5324587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197387704",
+      "properties": {
+        "@id": "node/12197387704",
+        "name": "Cerro de las Tres Cruces",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7302921,
+          4.3484242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197590060",
+      "properties": {
+        "@id": "node/12197590060",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7592986,
+          4.5977772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12489368601",
+      "properties": {
+        "@id": "node/12489368601",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7366829,
+          4.3573764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12576955360",
+      "properties": {
+        "@id": "node/12576955360",
+        "historic": "ruins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5817601,
+          4.4298913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12585940621",
+      "properties": {
+        "@id": "node/12585940621",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Virgen María"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7608109,
+          4.6240087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12744870688",
+      "properties": {
+        "@id": "node/12744870688",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7701935,
+          4.617627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12767621401",
+      "properties": {
+        "@id": "node/12767621401",
+        "name": "Sendero a Cascadas de Cocora",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5080429,
+          4.6363671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12769414603",
+      "properties": {
+        "@id": "node/12769414603",
+        "name": "Mirador",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5722193,
+          4.655102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12769416401",
+      "properties": {
+        "@id": "node/12769416401",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5717995,
+          4.6552778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12769416402",
+      "properties": {
+        "@id": "node/12769416402",
+        "name": "Subida al mirador/to the view point",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5723995,
+          4.6557208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12823599404",
+      "properties": {
+        "@id": "node/12823599404",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6778402,
+          4.5328741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12862593510",
+      "properties": {
+        "@id": "node/12862593510",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7641609,
+          4.4711501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12871681039",
+      "properties": {
+        "@id": "node/12871681039",
+        "historic": "memorial",
+        "name": "La Reconstrucción"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7050434,
+          4.3338204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12958638166",
+      "properties": {
+        "@id": "node/12958638166",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6342084,
+          4.5313929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13002353120",
+      "properties": {
+        "@id": "node/13002353120",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7451261,
+          4.3640135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13003419877",
+      "properties": {
+        "@id": "node/13003419877",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7392876,
+          4.3603644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13064645436",
+      "properties": {
+        "@id": "node/13064645436",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6796173,
+          4.517846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13345164194",
+      "properties": {
+        "@id": "node/13345164194",
+        "historic": "memorial",
+        "name": "Gruta de la Virgen María"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6662595,
+          4.5343998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13346555351",
+      "properties": {
+        "@id": "node/13346555351",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76643,
+          4.4558223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13463076601",
+      "properties": {
+        "@id": "node/13463076601",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6595427,
+          4.6749519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13523439101",
+      "properties": {
+        "@id": "node/13523439101",
+        "addr:housenumber": "5",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7141445,
+          4.5299832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13587676208",
+      "properties": {
+        "@id": "node/13587676208",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.666092,
+          4.5332361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13626154534",
+      "properties": {
+        "@id": "node/13626154534",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7098548,
+          4.4740278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13722346531",
+      "properties": {
+        "@id": "node/13722346531",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6752316,
+          4.5329138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13782119399",
+      "properties": {
+        "@id": "node/13782119399",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7151813,
+          4.5017612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14077437970",
+      "properties": {
+        "@id": "node/14077437970",
+        "name": "El Ocaso Tour Del Café",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5956527,
+          4.6258669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14181628668",
+      "properties": {
+        "@id": "node/14181628668",
+        "addr:city": "Filandia",
+        "addr:housenumber": "km 2,5 Via Alcalá",
+        "addr:postcode": "634001",
+        "addr:street": "Finca Los Pomos, Vereda Buenavista",
+        "description": "Centro de turismo de naturaleza y educación ambiental en proceso de adecuación, ubicado en la vereda Buenavista de Filandia. Integra senderos, bosque, guadual, cafetal, huerta y piscina natural. Visitas únicamente con reserva previa.",
+        "dog": "leashed",
+        "ele": "1850",
+        "email": "reservas@ruraladventure.co",
+        "image": "https://www.ruraladventure.co/nature_center",
+        "loc_name": "“Centro de interpretación del turismo de naturaleza, la cultura rural y el paisaje cafetero”",
+        "loc_name:es": "INGL",
+        "mobile": "+573138473853",
+        "name": "Rural Adventure Nature Center",
+        "natural": "peak",
+        "official_name": "Rural Adventure Nature Center",
+        "opening_hours": "Mo-Fr 06:00-12:00",
+        "operator": "Rural Adventure",
+        "operator:type": "private",
+        "smoking": "separated",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6814233,
+          4.6652065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14349674099",
+      "properties": {
+        "@id": "node/14349674099",
+        "name": "Yo ❤ el Café",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7236629,
+          4.4665876
+        ]
+      }
+    }
+  ]
+}
